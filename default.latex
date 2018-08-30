@@ -344,6 +344,8 @@ $if(logo)$
 $endif$
 $endif$
 
+\usepackage{tikz}
+
 \begin{document}
 $if(title)$
 $if(beamer)$
